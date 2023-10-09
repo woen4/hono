@@ -393,6 +393,7 @@
     "nodejs"
   ],
   "devDependencies": {
+    "@azure/functions": "^4.0.1",
     "@cloudflare/workers-types": "^4.20221111.1",
     "@hono/node-server": "^1.0.2",
     "@types/crypto-js": "^4.1.1",
